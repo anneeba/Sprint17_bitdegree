@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 15px;
+}
+h2 {
+    margin-top: 12px;
+    margin-bottom: 10px;
+  }
+
+  table {
+    border: 1px solid rgb(140, 155, 181);
+    border-collapse: collapse;
+    margin: 10px;
+  }
+
+  th,
+td {
+  border: 1px solid rgb(140, 155, 181);
+  padding: 5pt 10pt;
+  text-align: left;
+}
+
+thead {
+  color: white;
+  background-color: rgb(140, 155, 181);
+}
+
+th {
+  text-transform: capitalize;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+li {
+    padding: 2.5px;
+}
+.likePanel button {
+  margin-left: 1em;
+}
